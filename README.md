@@ -1,5 +1,5 @@
 # quest-submissions-
-
+Chapter 1
 DAY 1 -- Quest
   1. Explain what the Blockchain is in your own words.
     A Blockchain is a block database that stores information publicly, for anyone to see-- and decentralized. 
@@ -18,3 +18,6 @@ DAY 2 -- Quest
     Clarity in knowing that we can clearly understand what we are looking at and its written intentions. Being approachable, like life, you need to be 
     ok with taking something on or in.. Developer experience is key cause you dont wanna mess around for hour wrestling with something thats gonna take you
     away from a better idea or become frustrating. 
+
+Chapter 1.5 
+read thru it all -- will definitely need to get more time on this stuff. bookmarked the cadence playground. 
